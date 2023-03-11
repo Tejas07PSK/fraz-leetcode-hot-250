@@ -11,7 +11,7 @@
   </tr>
   <tr><th colspan="4">Array</th></tr>
   <tr align="center">
-    <td>1</td>
+    <td>38</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
     <td>:apple:</td>
     <td><a href="Array/first_missing_positive.py">:point_right:</a></td>

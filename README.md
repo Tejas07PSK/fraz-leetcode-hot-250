@@ -17,6 +17,12 @@
     <td><a href="Array/two_sum.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>11</td>
+    <td><a href="https://leetcode.com/problems/pascals-triangle/">Pascal's Triangle</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Array/pascal_triangle.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>38</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
     <td>:apple:</td>

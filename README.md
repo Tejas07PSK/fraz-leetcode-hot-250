@@ -17,6 +17,12 @@
     <td><a href="Array/two_sum.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>2</td>
+    <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time To Buy and Sell Stock</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Array/bst_tmto_bysl_stk.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>11</td>
     <td><a href="https://leetcode.com/problems/pascals-triangle/">Pascal's Triangle</a></td>
     <td>:green_apple:</td>

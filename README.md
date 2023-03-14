@@ -23,6 +23,12 @@
     <td><a href="Array/bst_tmto_bysl_stk.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>3</td>
+    <td><a href="https://leetcode.com/problems/merge-sorted-array">Merge Sorted Array</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Array/merge_sorted_array.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>11</td>
     <td><a href="https://leetcode.com/problems/pascals-triangle/">Pascal's Triangle</a></td>
     <td>:green_apple:</td>

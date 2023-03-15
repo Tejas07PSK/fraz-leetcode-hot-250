@@ -41,6 +41,12 @@
     <td><a href="Array/bst_tmto_bysl_stk2.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>6</td>
+    <td><a href="https://leetcode.com/problems/running-sum-of-1d-array/">Running Sum of 1d Array</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Array/running_sum_of_1d_arr.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>11</td>
     <td><a href="https://leetcode.com/problems/pascals-triangle/">Pascal's Triangle</a></td>
     <td>:green_apple:</td>

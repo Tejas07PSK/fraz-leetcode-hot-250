@@ -47,6 +47,12 @@
     <td><a href="Array/running_sum_of_1d_arr.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>7</td>
+    <td><a href="https://leetcode.com/problems/find-pivot-index/">Find Pivot Index</a></td>
+    <td>:lemon:</td>
+    <td><a href="Array/find_pvt_idx.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>11</td>
     <td><a href="https://leetcode.com/problems/pascals-triangle/">Pascal's Triangle</a></td>
     <td>:green_apple:</td>

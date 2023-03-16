@@ -59,6 +59,12 @@
     <td><a href="Array/majority_element.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>9</td>
+    <td><a href="https://leetcode.com/problems/fibonacci-number/">Fibonacci Number</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Array/fib_number.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>11</td>
     <td><a href="https://leetcode.com/problems/pascals-triangle/">Pascal's Triangle</a></td>
     <td>:green_apple:</td>

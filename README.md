@@ -83,6 +83,12 @@
     <td><a href="Array/rem_dup_frm_srtd_arr.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>13</td>
+    <td><a href="https://leetcode.com/problems/3sum/">3 Sum</a></td>
+    <td>:lemon:</td>
+    <td><a href="Array/three_sum.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>38</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
     <td>:apple:</td>

@@ -77,6 +77,12 @@
     <td><a href="Array/pascal_triangle.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>12</td>
+    <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">Remove Duplicates from Sorted Array</a></td>
+    <td>:lemon:</td>
+    <td><a href="Array/rem_dup_frm_srtd_arr.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>38</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
     <td>:apple:</td>

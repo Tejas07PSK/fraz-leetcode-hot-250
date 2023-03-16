@@ -65,6 +65,12 @@
     <td><a href="Array/fib_number.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>10</td>
+    <td><a href="https://leetcode.com/problems/squares-of-a-sorted-array/">Squares of a Sorted Array</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Array/sqrs_of_sorted_array.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>11</td>
     <td><a href="https://leetcode.com/problems/pascals-triangle/">Pascal's Triangle</a></td>
     <td>:green_apple:</td>

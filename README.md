@@ -53,6 +53,12 @@
     <td><a href="Array/find_pvt_idx.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>8</td>
+    <td><a href="https://leetcode.com/problems/majority-element/">Majority Element</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Array/majority_element.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>11</td>
     <td><a href="https://leetcode.com/problems/pascals-triangle/">Pascal's Triangle</a></td>
     <td>:green_apple:</td>

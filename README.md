@@ -89,6 +89,12 @@
     <td><a href="Array/three_sum.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>14</td>
+    <td><a href="https://leetcode.com/problems/product-of-array-except-self/">Product of Array Except Self</a></td>
+    <td>:lemon:</td>
+    <td><a href="Array/prd_arr_excpt_self.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>38</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
     <td>:apple:</td>

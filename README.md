@@ -95,6 +95,12 @@
     <td><a href="Array/prd_arr_excpt_self.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>15</td>
+    <td><a href="https://leetcode.com/problems/insert-delete-getrandom-o1/">Insert Delete GetRandom O(1)</a></td>
+    <td>:lemon:</td>
+    <td><a href="Array/ins_del_getran_o1.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>38</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
     <td>:apple:</td>

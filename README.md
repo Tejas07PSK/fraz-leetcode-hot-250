@@ -107,6 +107,12 @@
     <td><a href="Array/sub_arr_sum_eqk.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>17</td>
+    <td><a href="https://leetcode.com/problems/next-permutation/">Next Permutation</a></td>
+    <td>:lemon:</td>
+    <td><a href="Array/next_permutation.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>38</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
     <td>:apple:</td>

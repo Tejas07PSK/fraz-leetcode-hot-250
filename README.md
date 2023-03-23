@@ -125,6 +125,12 @@
     <td><a href="Array/cont_with_mst_wtr.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>20</td>
+    <td><a href="https://leetcode.com/problems/rotate-image/">Rotate Image</a></td>
+    <td>:lemon:</td>
+    <td><a href="Array/rotate_image.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>38</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
     <td>:apple:</td>

@@ -137,6 +137,12 @@
     <td><a href="Array/word_search.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>22</td>
+    <td><a href="https://leetcode.com/problems/3sum-closest/">3Sum Closest</a></td>
+    <td>:lemon:</td>
+    <td><a href="Array/three_sum_closest.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>38</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
     <td>:apple:</td>

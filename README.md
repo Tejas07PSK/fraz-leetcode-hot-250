@@ -143,6 +143,12 @@
     <td><a href="Array/three_sum_closest.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>23</td>
+    <td><a href="https://leetcode.com/problems/game-of-life/">Game of Life</a></td>
+    <td>:lemon:</td>
+    <td><a href="Array/game_of_life.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>38</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
     <td>:apple:</td>

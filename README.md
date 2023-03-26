@@ -149,6 +149,12 @@
     <td><a href="Array/game_of_life.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>24</td>
+    <td><a href="https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/">Pairs of Songs With Total Durations Divisible by 60</a></td>
+    <td>:lemon:</td>
+    <td><a href="Array/prs_of_sngs_wth_tot_durs_divby_sixty.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>38</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
     <td>:apple:</td>

@@ -155,6 +155,12 @@
     <td><a href="Array/prs_of_sngs_wth_tot_durs_divby_sixty.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>25</td>
+    <td><a href="https://leetcode.com/problems/4sum/">4 Sum</a></td>
+    <td>:lemon:</td>
+    <td><a href="Array/four_sum.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>38</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
     <td>:apple:</td>

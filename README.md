@@ -161,6 +161,12 @@
     <td><a href="Array/four_sum.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>26</td>
+    <td><a href="https://leetcode.com/problems/find-the-duplicate-number/">Find the Duplicate Number</a></td>
+    <td>:lemon:</td>
+    <td><a href="Array/find_the_dup_num.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>38</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
     <td>:apple:</td>

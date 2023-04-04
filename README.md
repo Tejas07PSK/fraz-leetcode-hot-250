@@ -167,6 +167,12 @@
     <td><a href="Array/find_the_dup_num.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>27</td>
+    <td><a href="https://leetcode.com/problems/combination-sum/">Combination Sum</a></td>
+    <td>:lemon:</td>
+    <td><a href="Array/combination_sum.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>38</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
     <td>:apple:</td>

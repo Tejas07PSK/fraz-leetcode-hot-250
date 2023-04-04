@@ -1,7 +1,7 @@
 from collections import deque
 
 class Solution:
-    def __method_1 (self, i, target, arr, dq):
+    def __combination_sum_helper (self, i, target, arr, dq):
         if (target == 0):
             self.ans.append(list(dq))
             return
@@ -19,4 +19,3 @@ class Solution:
         self.ans = []
         self.__method_1(0, target, candidates, deque())
         return self.ans
-

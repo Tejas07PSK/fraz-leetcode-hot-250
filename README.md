@@ -179,6 +179,12 @@
     <td><a href="Array/jump_game2.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>29</td>
+    <td><a href="https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/">Maximum Points You Can Obtain from Cards</a></td>
+    <td>:lemon:</td>
+    <td><a href="Array/max_pts_u_can_obt_frm_cards.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>38</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
     <td>:apple:</td>

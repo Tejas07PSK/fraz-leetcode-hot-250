@@ -185,6 +185,12 @@
     <td><a href="Array/max_pts_u_can_obt_frm_cards.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>30</td>
+    <td><a href="https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/">Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts</a></td>
+    <td>:lemon:</td>
+    <td><a href="Array/mxar_ofapcoc_aft_vnhcs.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>38</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
     <td>:apple:</td>

@@ -191,6 +191,12 @@
     <td><a href="Array/mxar_ofapcoc_aft_vnhcs.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>31</td>
+    <td><a href="https://leetcode.com/problems/max-area-of-island/">Max Area of Island</a></td>
+    <td>:lemon:</td>
+    <td><a href="Array/max_area_of_island.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>38</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
     <td>:apple:</td>

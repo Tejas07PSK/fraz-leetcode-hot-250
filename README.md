@@ -197,6 +197,12 @@
     <td><a href="Array/max_area_of_island.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>32</td>
+    <td><a href="https://leetcode.com/problems/find-all-duplicates-in-an-array/">Find All Duplicates in an Array</a></td>
+    <td>:lemon:</td>
+    <td><a href="Array/find_all_dups_in_arr.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>38</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
     <td>:apple:</td>

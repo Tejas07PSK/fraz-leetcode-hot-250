@@ -203,6 +203,12 @@
     <td><a href="Array/find_all_dups_in_arr.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>33</td>
+    <td><a href="https://leetcode.com/problems/k-diff-pairs-in-an-array/">K-diff Pairs in an Array</a></td>
+    <td>:lemon:</td>
+    <td><a href="Array/k_diff_pairs_in_arr.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>38</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
     <td>:apple:</td>

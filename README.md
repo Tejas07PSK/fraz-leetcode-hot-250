@@ -209,6 +209,12 @@
     <td><a href="Array/k_diff_pairs_in_arr.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>34</td>
+    <td><a href="https://leetcode.com/problems/subsets/">Subsets</a></td>
+    <td>:lemon:</td>
+    <td><a href="Array/subsets.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>38</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
     <td>:apple:</td>

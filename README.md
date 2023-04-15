@@ -215,6 +215,12 @@
     <td><a href="Array/subsets.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>35</td>
+    <td><a href="https://leetcode.com/problems/invalid-transactions/">Invalid Transactions</a></td>
+    <td>:lemon:</td>
+    <td><a href="Array/invalid_transactions.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>38</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
     <td>:apple:</td>

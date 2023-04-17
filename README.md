@@ -221,6 +221,12 @@
     <td><a href="Array/invalid_transactions.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>36</td>
+    <td><a href="https://leetcode.com/problems/jump-game/">Jump Game I</a></td>
+    <td>:lemon:</td>
+    <td><a href="Array/jump_game1.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>38</td>
     <td><a href="https://leetcode.com/problems/first-missing-positive/">First Missing Positive</a></td>
     <td>:apple:</td>

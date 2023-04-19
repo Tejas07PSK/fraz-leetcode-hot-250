@@ -238,4 +238,10 @@
     <td>:apple:</td>
     <td><a href="Array/first_missing_positive.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>39</td>
+    <td><a href="https://leetcode.com/problems/largest-rectangle-in-histogram/">Largest Rectangle in Histogram</a></td>
+    <td>:apple:</td>
+    <td><a href="Array/largest_rect_in_histo.py">:point_right:</a></td>
+  </tr>
 </table>

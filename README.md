@@ -244,4 +244,10 @@
     <td>:apple:</td>
     <td><a href="Array/largest_rect_in_histo.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>40</td>
+    <td><a href="https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/">Insert Delete GetRandom O(1) - Duplicates allowed</a></td>
+    <td>:apple:</td>
+    <td><a href="Array/ins_del_getran_o1_dups_alwd.py">:point_right:</a></td>
+  </tr>
 </table>

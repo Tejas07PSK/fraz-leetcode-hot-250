@@ -256,4 +256,10 @@
     <td>:apple:</td>
     <td><a href="Array/bst_tmto_bysl_stk3.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>42</td>
+    <td><a href="https://leetcode.com/problems/max-value-of-equation/">Max Value of Equation</a></td>
+    <td>:apple:</td>
+    <td><a href="Array/max_val_of_eq.py">:point_right:</a></td>
+  </tr>
 </table>

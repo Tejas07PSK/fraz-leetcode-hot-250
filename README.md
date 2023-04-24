@@ -262,4 +262,11 @@
     <td>:apple:</td>
     <td><a href="Array/max_val_of_eq.py">:point_right:</a></td>
   </tr>
+  <tr><th colspan="4">Recursion</th></tr>
+  <tr align="center">
+    <td>1</td>
+    <td><a href="https://leetcode.com/problems/powx-n/">Pow(x, n)</a></td>
+    <td>:lemon:</td>
+    <td><a href="Recursion/pow_x_n.py">:point_right:</a></td>
+  </tr>
 </table>

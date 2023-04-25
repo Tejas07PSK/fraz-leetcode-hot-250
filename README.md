@@ -269,4 +269,10 @@
     <td>:lemon:</td>
     <td><a href="Recursion/pow_x_n.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>2</td>
+    <td><a href="https://leetcode.com/problems/valid-palindrome/">Valid Palindrome</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Recursion/valid_palindrome.py">:point_right:</a></td>
+  </tr>
 </table>

@@ -275,4 +275,10 @@
     <td>:green_apple:</td>
     <td><a href="Recursion/valid_palindrome.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>3</td>
+    <td><a href="https://leetcode.com/problems/subsets/">Subsets</a></td>
+    <td>:lemon:</td>
+    <td><a href="Recursion/subsets.py">:point_right:</a></td>
+  </tr>
 </table>

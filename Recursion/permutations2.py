@@ -1,12 +1,12 @@
 class Solution:
     def __method1 (self, size, nums):
         if (size == 1):
-            self.res.add(tuple(nums))
-            return
+          self.res.add(tuple(nums))
+          return
         for i in range(size):
-            self.__method1(size - 1, nums)
-            if ((size & 1) == 1): nums[0], nums[size - 1] = nums[size - 1], nums[0]
-            else: nums[i], nums[size - 1] = nums[size - 1], nums[i]
+          self.__method1(size - 1, nums)
+          if ((size & 1) == 1): nums[0], nums[size - 1] = nums[size - 1], nums[0]
+          else: nums[i], nums[size - 1] = nums[size - 1], nums[i]
 
     def __method2 (self, i, num_freq_hm, unq_nums, size, nums):
         for num in unq_nums:

@@ -287,4 +287,10 @@
     <td>:lemon:</td>
     <td><a href="Recursion/permutations.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>5</td>
+    <td><a href="https://leetcode.com/problems/permutations-ii/">Permutations II</a></td>
+    <td>:lemon:</td>
+    <td><a href="Recursion/permutations2.py">:point_right:</a></td>
+  </tr>
 </table>

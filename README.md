@@ -299,4 +299,10 @@
     <td>:lemon:</td>
     <td><a href="Recursion/subsets2.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>7</td>
+    <td><a href="https://leetcode.com/problems/combinations/">Combinations</a></td>
+    <td>:lemon:</td>
+    <td><a href="Recursion/combinations.py">:point_right:</a></td>
+  </tr>
 </table>

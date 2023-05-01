@@ -9,7 +9,7 @@ class Solution:
         if (next_target > 0): self.__combinationSumHelper(i, candidates, next_target, temp_sol)
         elif (next_target == 0): self.res.append(list(temp_sol))
         temp_sol.pop()
-        if ((i + 1) < len(candidates)): self.__combinationSumHelper(i + 1, candidates, target, temp_sol) 
+        self.__combinationSumHelper(i + 1, candidates, target, temp_sol) 
 
     def combinationSum (self, candidates: List[int], target: int) -> List[List[int]]:
         self.res = []

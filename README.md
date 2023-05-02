@@ -317,4 +317,10 @@
     <td>:lemon:</td>
     <td><a href="Recursion/combination_sum2.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>10</td>
+    <td><a href="https://leetcode.com/problems/combination-sum-iii/">Combination Sum III</a></td>
+    <td>:lemon:</td>
+    <td><a href="Recursion/combination_sum3.py">:point_right:</a></td>
+  </tr>
 </table>

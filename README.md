@@ -329,4 +329,10 @@
     <td>:lemon:</td>
     <td><a href="Recursion/letter_combi_of_phno.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>12</td>
+    <td><a href="https://leetcode.com/problems/partition-to-k-equal-sum-subsets/">Partition to K Equal Sum Subsets</a></td>
+    <td>:lemon:</td>
+    <td><a href="Recursion/partition_to_k_equal_sum_subsets.py">:point_right:</a></td>
+  </tr>
 </table>

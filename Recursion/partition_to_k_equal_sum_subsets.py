@@ -22,3 +22,4 @@ class Solution:
         self.tot_sum, self.dp = (self.tot_sum // k), [None for i in range(1 << len(nums))]
         nums.sort(reverse=True)
         return self.__canPartitionKSubsetsHelper(k, 0, self.tot_sum, nums)
+        

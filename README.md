@@ -335,4 +335,11 @@
     <td>:lemon:</td>
     <td><a href="Recursion/partition_to_k_equal_sum_subsets.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>13</td>
+    <td><a href="https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/">Max Length of a Concatenated
+String with Unique Characters</a></td>
+    <td>:lemon:</td>
+    <td><a href="Recursion/mx_len_of_constr_wth_unqchrs.py">:point_right:</a></td>
+  </tr>
 </table>

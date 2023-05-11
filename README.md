@@ -354,4 +354,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Recursion/word_search.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>17</td>
+    <td><a href="https://leetcode.com/problems/n-queens/">N Queens</a></td>
+    <td>:apple:</td>
+    <td><a href="Recursion/n_queens.py">:point_right:</a></td>
+  </tr>
 </table>

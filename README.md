@@ -355,6 +355,12 @@ String with Unique Characters</a></td>
     <td><a href="Recursion/word_search.py">:point_right:</a></td>
   </tr>
   <tr align="center">
+    <td>16</td>
+    <td><a href="https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1">Rat in a Maze</a></td>
+    <td>:lemon:</td>
+    <td><a href="Recursion/rat_in_a_maze.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
     <td>17</td>
     <td><a href="https://leetcode.com/problems/n-queens/">N Queens</a></td>
     <td>:apple:</td>

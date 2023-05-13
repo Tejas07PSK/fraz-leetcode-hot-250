@@ -366,5 +366,12 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Recursion/n_queens.py">:point_right:</a></td>
   </tr>
+  <tr><th colspan="4">Dynamic Programming</th></tr>
+  <tr align="center">
+    <td>1</td>
+    <td><a href="https://leetcode.com/problems/maximum-subarray/">Maximum Subarray</a></td>
+    <td>:lemon:</td>
+    <td><a href="Dynamic Programming/max_sum_subarr.py">:point_right:</a></td>
+  </tr>
 </table>
 

@@ -379,4 +379,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Dynamic Programming/climbing_stairs.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>3</td>
+    <td><a href="https://leetcode.com/problems/divisor-game/">Divisor Game</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Dynamic Programming/divisor_game.py">:point_right:</a></td>
+  </tr>
 </table>

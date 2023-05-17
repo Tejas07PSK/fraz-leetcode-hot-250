@@ -391,4 +391,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Dynamic Programming/counting_bits.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>5</td>
+    <td><a href="https://leetcode.com/problems/decode-ways/">Decode Ways</a></td>
+    <td>:lemon:</td>
+    <td><a href="Dynamic Programming/decode_ways.py">:point_right:</a></td>
+  </tr>
 </table>

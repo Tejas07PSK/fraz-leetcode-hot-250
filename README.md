@@ -403,4 +403,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Dynamic Programming/word_break.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>7</td>
+    <td><a href="https://leetcode.com/problems/delete-and-earn/">Delete and Earn</a></td>
+    <td>:lemon:</td>
+    <td><a href="Dynamic Programming/del_n_earn.py">:point_right:</a></td>
+  </tr>
 </table>

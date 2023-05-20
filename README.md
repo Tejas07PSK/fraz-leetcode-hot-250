@@ -415,4 +415,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Dynamic Programming/maximal_square.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>9</td>
+    <td><a href="https://leetcode.com/problems/coin-change/">Coin Change</a></td>
+    <td>:lemon:</td>
+    <td><a href="Dynamic Programming/coin_change.py">:point_right:</a></td>
+  </tr>
 </table>

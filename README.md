@@ -421,4 +421,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Dynamic Programming/coin_change.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>10</td>
+    <td><a href="https://leetcode.com/problems/maximum-product-subarray/">Maximum Product Subarray</a></td>
+    <td>:lemon:</td>
+    <td><a href="Dynamic Programming/max_prod_subarr.py">:point_right:</a></td>
+  </tr>
 </table>

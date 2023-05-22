@@ -427,4 +427,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Dynamic Programming/max_prod_subarr.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>11</td>
+    <td><a href="https://leetcode.com/problems/maximum-length-of-repeated-subarray/">Maximum Length Of Repeated Subarray</a></td>
+    <td>:lemon:</td>
+    <td><a href="Dynamic Programming/mxlen_of_rep_subarr.py">:point_right:</a></td>
+  </tr>
 </table>

@@ -433,4 +433,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Dynamic Programming/mxlen_of_rep_subarr.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>12</td>
+    <td><a href="https://leetcode.com/problems/palindromic-substrings/">Palindromic Substrings</a></td>
+    <td>:lemon:</td>
+    <td><a href="Dynamic Programming/palindromic_substrings.py">:point_right:</a></td>
+  </tr>
 </table>

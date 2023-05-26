@@ -445,11 +445,16 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Dynamic Programming/house_robber.py">:point_right:</a></td>
   </tr>
-    <tr align="center">
+  <tr align="center">
     <td>14</td>
-    <td><a href="https://leetcode.com/problems/continuous-subarray-sum/">Continuous Subarray Sum
-</a></td>
+    <td><a href="https://leetcode.com/problems/continuous-subarray-sum/">Continuous Subarray Sum</a></td>
     <td>:lemon:</td>
     <td><a href="Dynamic Programming/continuous_subarr_sum.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
+    <td>15</td>
+    <td><a href="https://leetcode.com/problems/knight-dialer/">Knight Dialer</a></td>
+    <td>:lemon:</td>
+    <td><a href="Dynamic Programming/knight_dialer.py">:point_right:</a></td>
   </tr>
 </table>

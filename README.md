@@ -457,4 +457,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Dynamic Programming/knight_dialer.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>16</td>
+    <td><a href="https://leetcode.com/problems/longest-increasing-subsequence/">Longest Increasing Subsequence</a></td>
+    <td>:lemon:</td>
+    <td><a href="Dynamic Programming/longest_incr_subseq.py">:point_right:</a></td>
+  </tr>
 </table>

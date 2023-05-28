@@ -469,4 +469,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Dynamic Programming/unique_paths.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>18</td>
+    <td><a href="https://leetcode.com/problems/count-square-submatrices-with-all-ones/">Count Square Submatrices with All Ones</a></td>
+    <td>:lemon:</td>
+    <td><a href="Dynamic Programming/cnt_sqsubmat_with1s.py">:point_right:</a></td>
+  </tr>
 </table>

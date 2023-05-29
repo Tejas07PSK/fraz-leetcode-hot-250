@@ -475,4 +475,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Dynamic Programming/cnt_sqsubmat_with1s.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>19</td>
+    <td><a href="https://leetcode.com/problems/range-sum-query-2d-immutable/">Range Sum Query 2D Immutable</a></td>
+    <td>:lemon:</td>
+    <td><a href="Dynamic Programming/rng_sum_qry2d.py">:point_right:</a></td>
+  </tr>
 </table>

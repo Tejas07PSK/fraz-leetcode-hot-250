@@ -481,4 +481,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Dynamic Programming/rng_sum_qry2d.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>20</td>
+    <td><a href="https://leetcode.com/problems/longest-arithmetic-subsequence/">Longest Arithmetic Subsequence</a></td>
+    <td>:lemon:</td>
+    <td><a href="Dynamic Programming/lngst_arith_seq.py">:point_right:</a></td>
+  </tr>
 </table>

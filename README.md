@@ -487,4 +487,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Dynamic Programming/lngst_arith_seq.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>21</td>
+    <td><a href="https://leetcode.com/problems/trapping-rain-water/">Trapping Rain Water</a></td>
+    <td>:lemon:</td>
+    <td><a href="Dynamic Programming/trapping_rain_water.py">:point_right:</a></td>
+  </tr>
 </table>

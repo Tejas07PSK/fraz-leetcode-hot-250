@@ -493,4 +493,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Dynamic Programming/trapping_rain_water.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>22</td>
+    <td><a href="https://leetcode.com/problems/word-break-ii/">Word Break II</a></td>
+    <td>:apple:</td>
+    <td><a href="Dynamic Programming/word_break2.py">:point_right:</a></td>
+  </tr>
 </table>

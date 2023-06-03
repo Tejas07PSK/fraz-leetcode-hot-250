@@ -505,4 +505,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Dynamic Programming/regex_matching.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>24</td>
+    <td><a href="https://leetcode.com/problems/maximal-rectangle/">Maximal Rectangle</a></td>
+    <td>:apple:</td>
+    <td><a href="Dynamic Programming/maximal_rectangle.py">:point_right:</a></td>
+  </tr>
 </table>

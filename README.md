@@ -511,4 +511,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Dynamic Programming/maximal_rectangle.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>25</td>
+    <td><a href="https://leetcode.com/problems/longest-valid-parentheses/">Longest Valid Parentheses</a></td>
+    <td>:apple:</td>
+    <td><a href="Dynamic Programming/longest_valid_parentheses.py">:point_right:</a></td>
+  </tr>
 </table>

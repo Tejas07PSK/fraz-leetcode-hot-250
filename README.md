@@ -523,4 +523,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Dynamic Programming/edit_distance.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>27</td>
+    <td><a href="https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/">Minimum Difficulty Of A Job Schedule</a></td>
+    <td>:apple:</td>
+    <td><a href="Dynamic Programming/min_difficulty_ofa_job_sch.py">:point_right:</a></td>
+  </tr>
 </table>

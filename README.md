@@ -529,4 +529,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Dynamic Programming/min_difficulty_ofa_job_sch.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>28</td>
+    <td><a href="https://leetcode.com/problems/frog-jump/">Frog Jump</a></td>
+    <td>:apple:</td>
+    <td><a href="Dynamic Programming/frog_jump.py">:point_right:</a></td>
+  </tr>
 </table>

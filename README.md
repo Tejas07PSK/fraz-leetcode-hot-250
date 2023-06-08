@@ -541,4 +541,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Dynamic Programming/bst_tmto_buysell_stk4.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>30</td>
+    <td><a href="https://leetcode.com/problems/burst-balloons/">Burst Balloons</a></td>
+    <td>:apple:</td>
+    <td><a href="Dynamic Programming/burst_balloons.py">:point_right:</a></td>
+  </tr>
 </table>

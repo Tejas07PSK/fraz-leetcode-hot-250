@@ -553,4 +553,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Dynamic Programming/min_cost_to_mrg_stn.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>32</td>
+    <td><a href="https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/">Minimum Insertion Steps To Make A String Palindrome</a></td>
+    <td>:apple:</td>
+    <td><a href="Dynamic Programming/min_inssteps_tomk_strpalin.py">:point_right:</a></td>
+  </tr>
 </table>

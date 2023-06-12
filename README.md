@@ -559,4 +559,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Dynamic Programming/min_inssteps_tomk_strpalin.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>33</td>
+    <td><a href="https://leetcode.com/problems/super-egg-drop/">Super Egg Drop</a></td>
+    <td>:apple:</td>
+    <td><a href="Dynamic Programming/super_egg_drop.py">:point_right:</a></td>
+  </tr>
 </table>

@@ -565,4 +565,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Dynamic Programming/super_egg_drop.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>34</td>
+    <td><a href="https://leetcode.com/problems/count-different-palindromic-subsequences/">Count Different Palindromic Subsequences</a></td>
+    <td>:apple:</td>
+    <td><a href="Dynamic Programming/cnt_diff_palin_seqs.py">:point_right:</a></td>
+  </tr>
 </table>

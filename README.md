@@ -571,4 +571,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Dynamic Programming/cnt_diff_palin_seqs.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>35</td>
+    <td><a href="https://leetcode.com/problems/minimum-cost-to-cut-a-stick/">Minimum Cost To Cut A Stick</a></td>
+    <td>:apple:</td>
+    <td><a href="Dynamic Programming/min_cost_to_cut_a_stick.py">:point_right:</a></td>
+  </tr>
 </table>

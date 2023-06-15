@@ -577,4 +577,11 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Dynamic Programming/min_cost_to_cut_a_stick.py">:point_right:</a></td>
   </tr>
+  <tr><th colspan="4">Strings</th></tr>
+  <tr align="center">
+    <td>1</td>
+    <td><a href="https://leetcode.com/problems/add-strings/">Add Strings</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Dynamic Programming/add_strings.py">:point_right:</a></td>
+  </tr>
 </table>

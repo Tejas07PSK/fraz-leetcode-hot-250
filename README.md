@@ -582,6 +582,6 @@ String with Unique Characters</a></td>
     <td>1</td>
     <td><a href="https://leetcode.com/problems/add-strings/">Add Strings</a></td>
     <td>:green_apple:</td>
-    <td><a href="Dynamic Programming/add_strings.py">:point_right:</a></td>
+    <td><a href="Strings/add_strings.py">:point_right:</a></td>
   </tr>
 </table>

@@ -584,4 +584,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Strings/add_strings.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>2</td>
+    <td><a href="https://leetcode.com/problems/longest-common-prefix/">Longest Common Prefix</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Strings/longest_common_prefix.py">:point_right:</a></td>
+  </tr>
 </table>

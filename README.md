@@ -590,4 +590,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Strings/longest_common_prefix.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>3</td>
+    <td><a href="https://leetcode.com/problems/valid-palindrome-ii/">Valid Palindrome II</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Strings/valid_palindrome2.py">:point_right:</a></td>
+  </tr>
 </table>

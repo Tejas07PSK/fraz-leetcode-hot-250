@@ -596,4 +596,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Strings/valid_palindrome2.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>4</td>
+    <td><a href="https://leetcode.com/problems/roman-to-integer/">Roman To Integer</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Strings/roman_to_integer.py">:point_right:</a></td>
+  </tr>
 </table>

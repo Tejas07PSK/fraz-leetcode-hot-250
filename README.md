@@ -602,4 +602,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Strings/roman_to_integer.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>5</td>
+    <td><a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/">Find the Index of the First Occurrence in a String</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Strings/fnd_idx_of_fstocc_of_str.py">:point_right:</a></td>
+  </tr>
 </table>

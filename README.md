@@ -608,4 +608,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Strings/fnd_idx_of_fstocc_of_str.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>6</td>
+    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></td>
+    <td>:lemon:</td>
+    <td><a href="Strings/longest_substr_without_rep_chrs.py">:point_right:</a></td>
+  </tr>
 </table>

@@ -614,4 +614,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Strings/longest_substr_without_rep_chrs.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>7</td>
+    <td><a href="https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/">Minimum Remove To Make Valid Parentheses</a></td>
+    <td>:lemon:</td>
+    <td><a href="Strings/min_remv_tmk_valid_par.py">:point_right:</a></td>
+  </tr>
 </table>

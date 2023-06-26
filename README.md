@@ -626,4 +626,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Strings/longest_palin_substr.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>9</td>
+    <td><a href="https://leetcode.com/problems/group-anagrams/">Group Anagrams</a></td>
+    <td>:lemon:</td>
+    <td><a href="Strings/group_anagrams.py">:point_right:</a></td>
+  </tr>
 </table>

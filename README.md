@@ -620,4 +620,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Strings/min_remv_tmk_valid_par.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>8</td>
+    <td><a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Palindromic Substring</a></td>
+    <td>:lemon:</td>
+    <td><a href="Strings/longest_palin_substr.py">:point_right:</a></td>
+  </tr>
 </table>

@@ -57,8 +57,30 @@ class Solution:
             if (size > ans[0]): ans[0], ans[1], ans[2] = size, left, right
         return s[ans[1]:ans[2]+1]
 
+    def __method5 (self, s):
+        t = ['#' for i in range((2 * len(s)) + 3)]
+        t[0], t[-1], j = '$', '@', 2
+        for i in range(len(s)):
+            t[j] = s[i]
+            j += 2
+        p, c, r = [0 for i in range(len(t))], 1, 1
+        cent = 0
+        for i in range(1, len(t) - 1):
+            mirr = 2 * c - i
+            if (i < r): p[i] = min(p[mirr], (r - i))
+            while (t[i - (1 + p[i])] == t[i + (1 + p[i])]): p[i] += 1
+            if ((i + p[i]) > r):
+                c = i
+                r = i + p[i]
+            if (p[i] > p[cent]): cent = i
+        return "".join(
+            [t[i] for i in range(cent - p[cent], (cent + p[cent] + 1))
+            if ((t[i] != '#') and (t[i] != '$') and (t[i] != '@'))]
+        )
+
     def longestPalindrome (self, s: str) -> str:
-        return self.__method4(s)
+        return self.__method5(s)
+        #return self.__method4(s)
         #return self.__method3(s)
         #return self.__method2(s)
         #return self.__method1_handler(s)

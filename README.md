@@ -632,4 +632,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Strings/group_anagrams.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>10</td>
+    <td><a href="https://leetcode.com/problems/generate-parentheses/">Generate Parentheses</a></td>
+    <td>:lemon:</td>
+    <td><a href="Strings/gen_parentheses.py">:point_right:</a></td>
+  </tr>
 </table>

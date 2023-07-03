@@ -656,4 +656,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Strings/rev_wrds_in_a_str.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>14</td>
+    <td><a href="https://leetcode.com/problems/simplify-path/">Simplify Path</a></td>
+    <td>:lemon:</td>
+    <td><a href="Strings/simplify_path.py">:point_right:</a></td>
+  </tr>
 </table>

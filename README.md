@@ -668,4 +668,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Strings/zigzag_conversion.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>16</td>
+    <td><a href="https://leetcode.com/problems/text-justification/">Text Justification</a></td>
+    <td>:lemon:</td>
+    <td><a href="Strings/text_justification.py">:point_right:</a></td>
+  </tr>
 </table>

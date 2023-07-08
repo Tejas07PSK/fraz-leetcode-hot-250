@@ -680,4 +680,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Strings/integer_to_english_words.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>18</td>
+    <td><a href="https://leetcode.com/problems/minimum-window-substring/">Minimum Window Substring</a></td>
+    <td>:apple:</td>
+    <td><a href="Strings/min_win_substr.py">:point_right:</a></td>
+  </tr>
 </table>

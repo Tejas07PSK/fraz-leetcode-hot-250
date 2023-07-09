@@ -686,4 +686,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Strings/min_win_substr.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>19</td>
+    <td><a href="https://leetcode.com/problems/valid-number/">Valid Number</a></td>
+    <td>:apple:</td>
+    <td><a href="Strings/valid_number.py">:point_right:</a></td>
+  </tr>
 </table>

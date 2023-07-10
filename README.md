@@ -692,4 +692,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Strings/valid_number.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>20</td>
+    <td><a href="https://leetcode.com/problems/distinct-subsequences/">Valid Number</a></td>
+    <td>:apple:</td>
+    <td><a href="Strings/distinct_subseqs.py">:point_right:</a></td>
+  </tr>
 </table>

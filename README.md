@@ -698,4 +698,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Strings/distinct_subseqs.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>21</td>
+    <td><a href="https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/">Smallest Range Covering Elements from K Lists</a></td>
+    <td>:apple:</td>
+    <td><a href="Strings/smlst_rng_cvrng_eles_frm_k_lsts.py">:point_right:</a></td>
+  </tr>
 </table>

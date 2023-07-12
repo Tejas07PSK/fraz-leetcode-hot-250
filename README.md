@@ -704,4 +704,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Strings/smlst_rng_cvrng_eles_frm_k_lsts.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>22</td>
+    <td><a href="https://leetcode.com/problems/substring-with-concatenation-of-all-words/">Substring With Concatenation Of All Words</a></td>
+    <td>:apple:</td>
+    <td><a href="Strings/substr_wth_conc_of_all_wrds.py">:point_right:</a></td>
+  </tr>
 </table>

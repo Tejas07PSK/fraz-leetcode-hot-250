@@ -710,4 +710,11 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Strings/substr_wth_conc_of_all_wrds.py">:point_right:</a></td>
   </tr>
+  <tr><th colspan="4">Maths</th></tr>
+  <tr align="center">
+    <td>1</td>
+    <td><a href="https://leetcode.com/problems/reverse-integer/">Reverse Integer</a></td>
+    <td>:lemon:</td>
+    <td><a href="Maths/reverse_integer.py">:point_right:</a></td>
+  </tr>
 </table>

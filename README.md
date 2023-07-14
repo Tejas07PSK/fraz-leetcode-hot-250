@@ -717,4 +717,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Maths/reverse_integer.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>2</td>
+    <td><a href="https://leetcode.com/problems/add-binary/">Add Binary</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Maths/add_binary.py">:point_right:</a></td>
+  </tr>
 </table>

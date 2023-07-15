@@ -723,4 +723,16 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Maths/add_binary.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>3</td>
+    <td><a href="https://leetcode.com/problems/add-binary/">Add Binary</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Maths/add_binary.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
+    <td>4</td>
+    <td><a href="https://leetcode.com/problems/palindrome-number/">Palindrome Number</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Maths/palin_num.py">:point_right:</a></td>
+  </tr>
 </table>

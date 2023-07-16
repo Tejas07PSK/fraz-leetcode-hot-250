@@ -735,4 +735,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Maths/palin_num.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>5</td>
+    <td><a href="https://leetcode.com/problems/minimum-moves-to-equal-array-elements/">Minimum Moves to Equal Array Elements</a></td>
+    <td>:lemon:</td>
+    <td><a href="Maths/min_mvs_to_eq_arr_eles.py">:point_right:</a></td>
+  </tr>
 </table>

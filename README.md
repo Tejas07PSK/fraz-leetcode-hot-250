@@ -741,10 +741,16 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Maths/min_mvs_to_eq_arr_eles.py">:point_right:</a></td>
   </tr>
-    <tr align="center">
+  <tr align="center">
     <td>6</td>
     <td><a href="https://leetcode.com/problems/happy-number/">Happy Number</a></td>
     <td>:green_apple:</td>
     <td><a href="Maths/happy_number.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
+    <td>7</td>
+    <td><a href="https://leetcode.com/problems/excel-sheet-column-title/">Excel Sheet Column Title</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Maths/excel_sheet_col_title.py">:point_right:</a></td>
   </tr>
 </table>

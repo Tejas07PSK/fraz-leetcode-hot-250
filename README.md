@@ -759,4 +759,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Maths/missing_number.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>9</td>
+    <td><a href="https://leetcode.com/problems/maximum-product-of-three-numbers/">Maximum Product of Three Numbers</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Maths/max_prd_of_three_nos.py">:point_right:</a></td>
+  </tr>
 </table>

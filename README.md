@@ -765,4 +765,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Maths/max_prd_of_three_nos.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>10</td>
+    <td><a href="https://leetcode.com/problems/power-of-two/">Power of Two</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Maths/pwr_of_two.py">:point_right:</a></td>
+  </tr>
 </table>

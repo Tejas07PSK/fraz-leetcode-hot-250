@@ -777,4 +777,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Maths/encode_and_decode_tiny_url.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>12</td>
+    <td><a href="https://leetcode.com/problems/string-to-integer-atoi/">String to Integer (atoi)</a></td>
+    <td>:lemon:</td>
+    <td><a href="Maths/str_to_int_atoi.py">:point_right:</a></td>
+  </tr>
 </table>

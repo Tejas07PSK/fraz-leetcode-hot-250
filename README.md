@@ -771,4 +771,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Maths/pwr_of_two.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>11</td>
+    <td><a href="https://leetcode.com/problems/encode-and-decode-tinyurl/">Encode And Decode TinyURL</a></td>
+    <td>:lemon:</td>
+    <td><a href="Maths/encode_and_decode_tiny_url.py">:point_right:</a></td>
+  </tr>
 </table>

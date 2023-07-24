@@ -783,4 +783,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Maths/str_to_int_atoi.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>13</td>
+    <td><a href="https://leetcode.com/problems/multiply-strings/">Multiply Strings</a></td>
+    <td>:lemon:</td>
+    <td><a href="Maths/mult_strs.py">:point_right:</a></td>
+  </tr>
 </table>

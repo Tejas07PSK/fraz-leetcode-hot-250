@@ -789,4 +789,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Maths/mult_strs.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>14</td>
+    <td><a href="https://leetcode.com/problems/angle-between-hands-of-a-clock/">Angle Between Hands of a Clock</a></td>
+    <td>:lemon:</td>
+    <td><a href="Maths/angle_bet_hands_of_clock.py">:point_right:</a></td>
+  </tr>
 </table>

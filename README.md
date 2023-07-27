@@ -795,4 +795,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Maths/angle_bet_hands_of_clock.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>15</td>
+    <td><a href="https://leetcode.com/problems/integer-break/">Integer Break</a></td>
+    <td>:lemon:</td>
+    <td><a href="Maths/integer_break.py">:point_right:</a></td>
+  </tr>
 </table>

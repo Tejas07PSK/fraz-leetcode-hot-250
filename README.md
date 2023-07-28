@@ -801,4 +801,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Maths/integer_break.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>16</td>
+    <td><a href="https://leetcode.com/problems/valid-square/">Valid Square</a></td>
+    <td>:lemon:</td>
+    <td><a href="Maths/valid_square.py">:point_right:</a></td>
+  </tr>
 </table>

@@ -807,4 +807,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Maths/valid_square.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>17</td>
+    <td><a href="https://leetcode.com/problems/the-kth-factor-of-n/">The kth Factor of n</a></td>
+    <td>:lemon:</td>
+    <td><a href="Maths/the_kth_factor_of_n.py">:point_right:</a></td>
+  </tr>
 </table>

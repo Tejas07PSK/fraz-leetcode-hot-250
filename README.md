@@ -816,7 +816,7 @@ String with Unique Characters</a></td>
   <tr align="center">
     <td>18</td>
     <td><a href="https://leetcode.com/problems/basic-calculator/">Basic Calculator</a></td>
-    <td>:lemon:</td>
+    <td>:apple:</td>
     <td><a href="Maths/basic_calculator.py">:point_right:</a></td>
   </tr>
 </table>

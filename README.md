@@ -819,4 +819,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Maths/basic_calculator.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>19</td>
+    <td><a href="https://leetcode.com/problems/max-points-on-a-line/">Max Ponts On A Line</a></td>
+    <td>:apple:</td>
+    <td><a href="Maths/max_points_on_line.py">:point_right:</a></td>
+  </tr>
 </table>

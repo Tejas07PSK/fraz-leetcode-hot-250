@@ -825,4 +825,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Maths/max_points_on_line.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>20</td>
+    <td><a href="https://leetcode.com/problems/permutation-sequence/">Permutation Sequence</a></td>
+    <td>:apple:</td>
+    <td><a href="Maths/permutation_sequence.py">:point_right:</a></td>
+  </tr>
 </table>

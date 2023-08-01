@@ -835,6 +835,6 @@ String with Unique Characters</a></td>
     <td>21</td>
     <td><a href="https://leetcode.com/problems/number-of-digit-one/">Number of Digit One</a></td>
     <td>:apple:</td>
-    <td><a href="Maths/number_of_digit_one.py">:point_right:</a></td>
+    <td><a href="Maths/num_of_dig_one.py">:point_right:</a></td>
   </tr>
 </table>

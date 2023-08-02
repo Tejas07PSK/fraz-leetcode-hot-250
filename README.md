@@ -837,4 +837,11 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Maths/num_of_dig_one.py">:point_right:</a></td>
   </tr>
+  <tr><th colspan="4">Greedy</th></tr>
+  <tr align="center">
+    <td>1</td>
+    <td><a href="https://leetcode.com/problems/task-scheduler/">Task Scheduler</a></td>
+    <td>:lemon:</td>
+    <td><a href="Greedy/task_scheduler.py">:point_right:</a></td>
+  </tr>
 </table>

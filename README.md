@@ -844,4 +844,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Greedy/task_scheduler.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>2</td>
+    <td><a href="https://leetcode.com/problems/gas-station/">Gas Station</a></td>
+    <td>:lemon:</td>
+    <td><a href="Greedy/gas_station.py">:point_right:</a></td>
+  </tr>
 </table>

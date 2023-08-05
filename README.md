@@ -856,4 +856,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Greedy/min_time_to_mk_rope_colorful.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>4</td>
+    <td><a href="https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/">Maximum Number of Events That Can Be Attended</a></td>
+    <td>:lemon:</td>
+    <td><a href="Greedy/max_events_attnd.py">:point_right:</a></td>
+  </tr>
 </table>

@@ -850,4 +850,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Greedy/gas_station.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>3</td>
+    <td><a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/">Min Time To Make Rope Colorful</a></td>
+    <td>:lemon:</td>
+    <td><a href="Greedy/min_time_to_mk_rope_colorful.py">:point_right:</a></td>
+  </tr>
 </table>

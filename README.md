@@ -862,4 +862,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Greedy/max_events_attnd.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>5</td>
+    <td><a href="https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/">Minimum Deletions to Make Character Frequencies Unique</a></td>
+    <td>:lemon:</td>
+    <td><a href="Greedy/min_del_to_mk_chfreqs_unq.py">:point_right:</a></td>
+  </tr>
 </table>

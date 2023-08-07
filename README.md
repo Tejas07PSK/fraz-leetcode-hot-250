@@ -868,4 +868,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Greedy/min_del_to_mk_chfreqs_unq.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>6</td>
+    <td><a href="https://leetcode.com/problems/remove-k-digits/">Remove k digits</a></td>
+    <td>:lemon:</td>
+    <td><a href="Greedy/rem_k_digits.py">:point_right:</a></td>
+  </tr>
 </table>

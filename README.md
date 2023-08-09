@@ -874,4 +874,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Greedy/rem_k_digits.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>7</td>
+    <td><a href="https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/">Restore the Array From Adjacent Pairs</a></td>
+    <td>:lemon:</td>
+    <td><a href="Greedy/restore_array_from_adj_pairs.py">:point_right:</a></td>
+  </tr>
 </table>

@@ -886,4 +886,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Greedy/non_overlapping_intervals.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>9</td>
+    <td><a href="https://leetcode.com/problems/candy/">Candy</a></td>
+    <td>:apple:</td>
+    <td><a href="Greedy/candy.py">:point_right:</a></td>
+  </tr>
 </table>

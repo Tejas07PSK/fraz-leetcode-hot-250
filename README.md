@@ -880,4 +880,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Greedy/restore_array_from_adj_pairs.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>8</td>
+    <td><a href="https://leetcode.com/problems/non-overlapping-intervals/">Non Overlapping Intervals</a></td>
+    <td>:lemon:</td>
+    <td><a href="Greedy/non_overlapping_intervals.py">:point_right:</a></td>
+  </tr>
 </table>

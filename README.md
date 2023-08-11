@@ -892,4 +892,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Greedy/candy.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>10</td>
+    <td><a href="https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/">Minimum Number of Taps to Open to Water a Garden</a></td>
+    <td>:apple:</td>
+    <td><a href="Greedy/min_num_of_taps_to_opn_to_wtr_garden.py">:point_right:</a></td>
+  </tr>
 </table>

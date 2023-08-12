@@ -898,4 +898,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Greedy/min_num_of_taps_to_opn_to_wtr_garden.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>11</td>
+    <td><a href="https://leetcode.com/problems/create-maximum-number/">Create Maximum Number</a></td>
+    <td>:apple:</td>
+    <td><a href="Greedy/create_max_num.py">:point_right:</a></td>
+  </tr>
 </table>

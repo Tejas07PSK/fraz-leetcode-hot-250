@@ -909,6 +909,6 @@ String with Unique Characters</a></td>
     <td>1</td>
     <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">Letter Combinations of a Phone Number</a></td>
     <td>:lemon:</td>
-    <td><a href="Greedy/letter_combos_of_phno.py">:point_right:</a></td>
+    <td><a href="Dfs/letter_combos_of_phno.py">:point_right:</a></td>
   </tr>
 </table>

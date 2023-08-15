@@ -911,4 +911,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Dfs/letter_combos_of_phno.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>2</td>
+    <td><a href="https://leetcode.com/problems/course-schedule-ii/">Course Schedule II</a></td>
+    <td>:lemon:</td>
+    <td><a href="Dfs/course_schedule_ii.py">:point_right:</a></td>
+  </tr>
 </table>

@@ -923,4 +923,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Dfs/decode_string.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>4</td>
+    <td><a href="https://leetcode.com/problems/number-of-provinces/">Number of Provinces</a></td>
+    <td>:lemon:</td>
+    <td><a href="Dfs/nof_provinces.py">:point_right:</a></td>
+  </tr>
 </table>

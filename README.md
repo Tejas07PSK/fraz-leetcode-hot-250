@@ -935,4 +935,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Dfs/clone_graph.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>6</td>
+    <td><a href="https://leetcode.com/problems/shortest-bridge/">Shortest Bridge</a></td>
+    <td>:lemon:</td>
+    <td><a href="Dfs/shortest_bridge.py">:point_right:</a></td>
+  </tr>
 </table>

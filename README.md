@@ -941,4 +941,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Dfs/shortest_bridge.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>7</td>
+    <td><a href="https://leetcode.com/problems/all-paths-from-source-to-target/">All Paths From Source to Target</a></td>
+    <td>:lemon:</td>
+    <td><a href="Dfs/all_paths_frm_src_to_tgt.py">:point_right:</a></td>
+  </tr>
 </table>

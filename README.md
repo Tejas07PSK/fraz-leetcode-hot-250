@@ -953,4 +953,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Dfs/surrounded_regions.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>9</td>
+    <td><a href="https://leetcode.com/problems/house-robber-iii/">House Robber III</a></td>
+    <td>:lemon:</td>
+    <td><a href="Dfs/house_robber_iii.py">:point_right:</a></td>
+  </tr>
 </table>

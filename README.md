@@ -959,4 +959,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Dfs/house_robber_iii.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>10</td>
+    <td><a href="https://leetcode.com/problems/critical-connections-in-a-network/">Critical Connections in a Network</a></td>
+    <td>:lemon:</td>
+    <td><a href="Dfs/critical_conns_in_netwrk.py">:point_right:</a></td>
+  </tr>
 </table>

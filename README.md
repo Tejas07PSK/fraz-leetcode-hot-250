@@ -962,13 +962,13 @@ String with Unique Characters</a></td>
   <tr align="center">
     <td>10</td>
     <td><a href="https://leetcode.com/problems/critical-connections-in-a-network/">Critical Connections in a Network</a></td>
-    <td>:lemon:</td>
+    <td>:apple:</td>
     <td><a href="Dfs/critical_conns_in_netwrk.py">:point_right:</a></td>
   </tr>
   <tr align="center">
     <td>11</td>
     <td><a href="https://leetcode.com/problems/remove-invalid-parentheses/">Remove Invalid Parentheses</a></td>
-    <td>:lemon:</td>
+    <td>:apple:</td>
     <td><a href="Dfs/rem_inv_parentheses.py">:point_right:</a></td>
   </tr>
 </table>

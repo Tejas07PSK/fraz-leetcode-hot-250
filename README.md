@@ -995,4 +995,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Dfs/cnt_virus.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>16</td>
+    <td><a href="https://leetcode.com/problems/24-game/">24 Game</a></td>
+    <td>:apple:</td>
+    <td><a href="Dfs/24_game.py">:point_right:</a></td>
+  </tr>
 </table>

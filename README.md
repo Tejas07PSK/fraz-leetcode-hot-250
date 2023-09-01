@@ -1001,4 +1001,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Dfs/24_game.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>17</td>
+    <td><a href="https://leetcode.com/problems/remove-boxes/">Remove Boxes</a></td>
+    <td>:apple:</td>
+    <td><a href="Dfs/remove_boxes.py">:point_right:</a></td>
+  </tr>
 </table>

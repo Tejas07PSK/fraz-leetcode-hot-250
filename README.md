@@ -1011,7 +1011,7 @@ String with Unique Characters</a></td>
   <tr align="center">
     <td>1</td>
     <td><a href="https://leetcode.com/problems/diameter-of-binary-tree/">Diameter of Binary Tree</a></td>
-    <td>:lemon:</td>
+    <td>:green_apple:</td>
     <td><a href="Tree/dia_of_bin_tree.py">:point_right:</a></td>
   </tr>
 </table>

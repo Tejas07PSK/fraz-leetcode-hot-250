@@ -1007,4 +1007,11 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Dfs/remove_boxes.py">:point_right:</a></td>
   </tr>
+  <tr><th colspan="4">Tree</th></tr>
+  <tr align="center">
+    <td>1</td>
+    <td><a href="https://leetcode.com/problems/diameter-of-binary-tree/">Diameter of Binary Tree</a></td>
+    <td>:lemon:</td>
+    <td><a href="Tree/dia_of_bin_tree.py">:point_right:</a></td>
+  </tr>
 </table>

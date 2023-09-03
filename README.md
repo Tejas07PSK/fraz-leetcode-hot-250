@@ -1014,4 +1014,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Tree/dia_of_bin_tree.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>2</td>
+    <td><a href="https://leetcode.com/problems/invert-binary-tree/">Invert Binary Tree</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Tree/invert_bin_tree.py">:point_right:</a></td>
+  </tr>
 </table>

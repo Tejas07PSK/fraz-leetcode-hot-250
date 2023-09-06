@@ -1026,4 +1026,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Tree/subtree_of_another_tree.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>4</td>
+    <td><a href="https://leetcode.com/problems/range-sum-of-bst/">Range Sum of BST</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Tree/rng_sum_of_bst.py">:point_right:</a></td>
+  </tr>
 </table>

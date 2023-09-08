@@ -1038,4 +1038,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Tree/symm_tree.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>6</td>
+    <td><a href="https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/">Convert Sorted Array to Binary Search Tree</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Tree/conv_sorted_arr_to_bin_sch_tree.py">:point_right:</a></td>
+  </tr>
 </table>

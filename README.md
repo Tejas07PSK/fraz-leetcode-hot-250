@@ -1044,4 +1044,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Tree/conv_sorted_arr_to_bin_sch_tree.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>7</td>
+    <td><a href="https://leetcode.com/problems/merge-two-binary-trees/">Merge Two Binary Trees</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Tree/mrg_two_bin_trees.py">:point_right:</a></td>
+  </tr>
 </table>

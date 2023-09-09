@@ -1050,4 +1050,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Tree/mrg_two_bin_trees.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>8</td>
+    <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Tree/max_depth_of_bin_tree.py">:point_right:</a></td>
+  </tr>
 </table>

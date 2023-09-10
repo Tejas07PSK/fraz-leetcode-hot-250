@@ -1056,4 +1056,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Tree/max_depth_of_bin_tree.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>9</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-paths/">Binary Tree Paths</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Tree/bin_tree_paths.py">:point_right:</a></td>
+  </tr>
 </table>

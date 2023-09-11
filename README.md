@@ -1062,4 +1062,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Tree/bin_tree_paths.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>10</td>
+    <td><a href="https://leetcode.com/problems/same-tree/">Same Tree</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Tree/same_tree.py">:point_right:</a></td>
+  </tr>
 </table>

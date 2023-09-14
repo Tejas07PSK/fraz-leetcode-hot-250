@@ -1069,9 +1069,15 @@ String with Unique Characters</a></td>
     <td><a href="Tree/same_tree.py">:point_right:</a></td>
   </tr>
   <tr align="center">
-    <td>10</td>
+    <td>11</td>
     <td><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">Lowest Common Ancestor of a Binary Search Tree</a></td>
     <td>:green_apple:</td>
     <td><a href="Tree/lca_of_bin_sch_tree.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
+    <td>12</td>
+    <td><a href="https://leetcode.com/problems/path-sum/">Path Sum</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Tree/path_sum.py">:point_right:</a></td>
   </tr>
 </table>

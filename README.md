@@ -1080,4 +1080,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Tree/path_sum.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>13</td>
+    <td><a href="https://leetcode.com/problems/minimum-absolute-difference-in-bst/">Minimum Absolute Difference in BST</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Tree/min_abs_diff_in_bst.py">:point_right:</a></td>
+  </tr>
 </table>

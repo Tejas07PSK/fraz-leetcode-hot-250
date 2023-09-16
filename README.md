@@ -1092,4 +1092,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Tree/sum_of_left_leaves.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>15</td>
+    <td><a href="https://leetcode.com/problems/balanced-binary-tree/">Balanced Binary Tree</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Tree/balanced_bin_tree.py">:point_right:</a></td>
+  </tr>
 </table>

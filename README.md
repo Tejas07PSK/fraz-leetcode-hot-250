@@ -1098,4 +1098,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Tree/balanced_bin_tree.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>16</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">Binary Tree Inorder Traversal</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Tree/bin_tree_inord_trav.py">:point_right:</a></td>
+  </tr>
 </table>

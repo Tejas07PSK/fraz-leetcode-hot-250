@@ -1104,4 +1104,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Tree/bin_tree_inord_trav.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>17</td>
+    <td><a href="https://leetcode.com/problems/count-good-nodes-in-binary-tree/">Count Good Nodes in Binary Tree</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Tree/bin_tree_inord_trav.py">:point_right:</a></td>
+  </tr>
 </table>

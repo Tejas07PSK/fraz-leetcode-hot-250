@@ -1116,4 +1116,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Tree/lca_bin_tree.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>19</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-right-side-view/">Binary Tree Right Side View</a></td>
+    <td>:lemon:</td>
+    <td><a href="Tree/bin_tree_rtsd_view.py">:point_right:</a></td>
+  </tr>
 </table>

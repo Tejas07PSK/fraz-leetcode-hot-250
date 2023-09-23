@@ -1128,4 +1128,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Tree/all_nodes_k_dist_in_tree.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>20</td>
+    <td><a href="https://leetcode.com/problems/validate-binary-search-tree/">Validate Binary Search Tree</a></td>
+    <td>:lemon:</td>
+    <td><a href="Tree/validate_bin_sch_tree.py">:point_right:</a></td>
+  </tr>
 </table>

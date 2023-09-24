@@ -1134,4 +1134,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Tree/validate_bin_sch_tree.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>21</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/">Binary Tree Zigzag Level Order Traversal</a></td>
+    <td>:lemon:</td>
+    <td><a href="Tree/zigzag_lvlord_trav_bin_tree.py">:point_right:</a></td>
+  </tr>
 </table>

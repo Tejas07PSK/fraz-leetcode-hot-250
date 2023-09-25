@@ -1140,4 +1140,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Tree/zigzag_lvlord_trav_bin_tree.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>22</td>
+    <td><a href="https://leetcode.com/problems/binary-search-tree-iterator/">Binary Search Tree Iterator</a></td>
+    <td>:lemon:</td>
+    <td><a href="Tree/bin_sch_tree_itr.py">:point_right:</a></td>
+  </tr>
 </table>

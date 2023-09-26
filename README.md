@@ -1146,4 +1146,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Tree/bin_sch_tree_itr.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>23</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">Binary Tree Level Order Traversal</a><td>
+    <td>:lemon:</td>
+    <td><a href="Tree/bin_tree_lvl_ord_trav.py">:point_right:</a></td>
+  </tr>
 </table>

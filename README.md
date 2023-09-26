@@ -1152,4 +1152,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Tree/bin_tree_lvl_ord_trav.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>24</td>
+    <td><a href="https://leetcode.com/problems/path-sum-iii/">Path Sum III</a></td>
+    <td>:lemon:</td>
+    <td><a href="Tree/path_sum_three.py">:point_right:</a></td>
+  </tr>
 </table>

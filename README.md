@@ -1158,4 +1158,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Tree/path_sum_three.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>25</td>
+    <td><a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/">Construct Binary Tree from Preorder and Postorder Traversal</a></td>
+    <td>:lemon:</td>
+    <td><a href="Tree/const_bin_tree_from_pre_post.py">:point_right:</a></td>
+  </tr>
 </table>

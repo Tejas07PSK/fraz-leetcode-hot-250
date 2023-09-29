@@ -1164,4 +1164,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Tree/const_bin_tree_from_pre_post.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>26</td>
+    <td><a href="https://leetcode.com/problems/unique-binary-search-trees/">Unique Binary Search Trees</a></td>
+    <td>:lemon:</td>
+    <td><a href="Tree/unq_bin_sch_trees.py">:point_right:</a></td>
+  </tr>
 </table>

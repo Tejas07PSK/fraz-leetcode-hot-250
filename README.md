@@ -1176,4 +1176,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Tree/rcvr_bin_tree.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>28</td>
+    <td><a href="https://leetcode.com/problems/populating-next-right-pointers-in-each-node/">Populating Next Right Pointers in Each Node</a></td>
+    <td>:lemon:</td>
+    <td><a href="Tree/pop_nxt_rt_ptrs_in_ech_node.py">:point_right:</a></td>
+  </tr>
 </table>

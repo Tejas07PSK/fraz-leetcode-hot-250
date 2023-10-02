@@ -1182,4 +1182,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Tree/pop_nxt_rt_ptrs_in_ech_node.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>29</td>
+    <td><a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/">Flatten Binary Tree to Linked List</a></td>
+    <td>:lemon:</td>
+    <td><a href="Tree/flat_bin_tree_to_lnklst.py">:point_right:</a></td>
+  </tr>
 </table>

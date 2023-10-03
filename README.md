@@ -1188,4 +1188,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Tree/flat_bin_tree_to_lnklst.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>30</td>
+    <td><a href="https://leetcode.com/problems/maximum-width-of-binary-tree/">Maximum Width of Binary Tree</a></td>
+    <td>:lemon:</td>
+    <td><a href="Tree/max_width_of_bin_tree.py">:point_right:</a></td>
+  </tr>
 </table>

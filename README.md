@@ -1200,4 +1200,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Tree/unq_bin_sch_trees_II.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>32</td>
+    <td><a href="https://leetcode.com/problems/kth-smallest-element-in-a-bst/">Kth Smallest Element in a BST</a></td>
+    <td>:lemon:</td>
+    <td><a href="Tree/kth_small_ele_in_bst.py">:point_right:</a></td>
+  </tr>
 </table>

@@ -1206,4 +1206,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Tree/kth_small_ele_in_bst.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>33</td>
+    <td><a href="https://leetcode.com/problems/redundant-connection/">Redundant Connection</a></td>
+    <td>:lemon:</td>
+    <td><a href="Tree/redundant_connection.py">:point_right:</a></td>
+  </tr>
 </table>

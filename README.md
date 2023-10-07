@@ -1212,4 +1212,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Tree/redundant_connection.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>34</td>
+    <td><a href="https://leetcode.com/problems/serialize-and-deserialize-binary-tree/">Serialize and Deserialize Binary Tree</a></td>
+    <td>:apple:</td>
+    <td><a href="Tree/ser_and_dser_bin_tree.py">:point_right:</a></td>
+  </tr>
 </table>

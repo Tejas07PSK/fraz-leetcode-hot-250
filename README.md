@@ -1218,4 +1218,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Tree/ser_and_dser_bin_tree.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>35</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-maximum-path-sum/">Binary Tree Maximum Path Sum</a></td>
+    <td>:apple:</td>
+    <td><a href="Tree/bin_tree_max_path_sum.py">:point_right:</a></td>
+  </tr>
 </table>

@@ -1236,4 +1236,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Tree/bin_tree_cam.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>38</td>
+    <td><a href="https://leetcode.com/problems/sum-of-distances-in-tree/">Sum of Distances in Tree</a></td>
+    <td>:apple:</td>
+    <td><a href="Tree/sum_of_dsts_in_tree.py">:point_right:</a></td>
+  </tr>
 </table>

@@ -1242,4 +1242,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Tree/sum_of_dsts_in_tree.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>40</td>
+    <td><a href="https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/">Number Of Ways To Reconstruct A Tree</a></td>
+    <td>:apple:</td>
+    <td><a href="Tree/num_ways_to_reconst_tree.py">:point_right:</a></td>
+  </tr>
 </table>

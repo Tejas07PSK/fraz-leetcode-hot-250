@@ -1248,4 +1248,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Tree/num_ways_to_reconst_tree.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>41</td>
+    <td><a href="https://leetcode.com/problems/redundant-connection-ii/">Redundant Connection II</a></td>
+    <td>:apple:</td>
+    <td><a href="Tree/redundant_connection_II.py">:point_right:</a></td>
+  </tr>
 </table>

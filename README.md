@@ -1254,4 +1254,11 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Tree/redundant_connection_II.py">:point_right:</a></td>
   </tr>
+  <tr><th colspan="4">Hash Table</th></tr>
+  <tr align="center">
+    <td>1</td>
+    <td><a href="https://leetcode.com/problems/verifying-an-alien-dictionary/">Verifying an Alien Dictionary</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Tree/verif_an_alien_dict.py">:point_right:</a></td>
+  </tr>
 </table>

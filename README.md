@@ -1259,6 +1259,6 @@ String with Unique Characters</a></td>
     <td>1</td>
     <td><a href="https://leetcode.com/problems/verifying-an-alien-dictionary/">Verifying an Alien Dictionary</a></td>
     <td>:green_apple:</td>
-    <td><a href="Tree/verif_an_alien_dict.py">:point_right:</a></td>
+    <td><a href="Hash Table/verif_an_alien_dict.py">:point_right:</a></td>
   </tr>
 </table>

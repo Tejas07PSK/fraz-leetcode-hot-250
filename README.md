@@ -1261,4 +1261,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Hash Table/verif_an_alien_dict.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>2</td>
+    <td><a href="https://leetcode.com/problems/design-hashmap/">Design HashMap</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Hash Table/design_hash_map.py">:point_right:</a></td>
+  </tr>
 </table>

@@ -1267,4 +1267,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Hash Table/design_hash_map.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>3</td>
+    <td><a href="https://leetcode.com/problems/top-k-frequent-elements/">Top K Frequent Elements</a></td>
+    <td>:lemon:</td>
+    <td><a href="Hash Table/top_k_freq_eles.py">:point_right:</a></td>
+  </tr>
 </table>

@@ -1279,4 +1279,11 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Hash Table/design_twitter.py">:point_right:</a></td>
   </tr>
+  <tr><th colspan="4">Binary Search</th></tr>
+  <tr align="center">
+    <td>1</td>
+    <td><a href="https://leetcode.com/problems/sqrtx/">Sqrt(x)</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Binary Search/sqrtx.py">:point_right:</a></td>
+  </tr>
 </table>

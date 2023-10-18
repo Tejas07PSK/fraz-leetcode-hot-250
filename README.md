@@ -1286,4 +1286,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Binary Search/sqrtx.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>2</td>
+    <td><a href="https://leetcode.com/problems/binary-search/">Binary Search</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Binary Search/bin_sch.py">:point_right:</a></td>
+  </tr>
 </table>

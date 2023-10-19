@@ -1292,4 +1292,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Binary Search/bin_sch.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>3</td>
+    <td><a href="https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/">Count Negative Numbers in a Sorted Matrix</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Binary Search/cnt_negnos_in_a_sorted_mat.py">:point_right:</a></td>
+  </tr>
 </table>

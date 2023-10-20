@@ -1298,4 +1298,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Binary Search/cnt_negnos_in_a_sorted_mat.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>4</td>
+    <td><a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">Peak Index in a Mountain Array</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Binary Search/peak_idx_in_mnt_arr.py">:point_right:</a></td>
+  </tr>
 </table>

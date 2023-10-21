@@ -1304,4 +1304,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Binary Search/peak_idx_in_mnt_arr.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>5</td>
+    <td><a href="https://leetcode.com/problems/time-based-key-value-store/">Time Based Key-Value Store</a></td>
+    <td>:lemon:</td>
+    <td><a href="Binary Search/time_based_kv_store.py">:point_right:</a></td>
+  </tr>
 </table>

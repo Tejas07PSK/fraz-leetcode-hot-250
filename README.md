@@ -1310,4 +1310,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Binary Search/time_based_kv_store.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>6</td>
+    <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in Rotated Sorted Array</a></td>
+    <td>:lemon:</td>
+    <td><a href="Binary Search/sch_in_rot_sort_arr.py">:point_right:</a></td>
+  </tr>
 </table>

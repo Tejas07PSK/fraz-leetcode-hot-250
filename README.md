@@ -1322,4 +1322,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Binary Search/pow_x_n.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>8</td>
+    <td><a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">Find First and Last Position of Element in Sorted Array</a></td>
+    <td>:lemon:</td>
+    <td><a href="Binary Search/fnd_fst_lst_pos_of_ele_in_srtd_arr.py">:point_right:</a></td>
+  </tr>
 </table>

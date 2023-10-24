@@ -1316,4 +1316,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Binary Search/sch_in_rot_sort_arr.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>7</td>
+    <td><a href="https://leetcode.com/problems/powx-n/">Pow(x, n)</a></td>
+    <td>:lemon:</td>
+    <td><a href="Binary Search/pow_x_n.py">:point_right:</a></td>
+  </tr>
 </table>

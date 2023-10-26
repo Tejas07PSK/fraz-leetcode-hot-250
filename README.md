@@ -1334,4 +1334,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Binary Search/find_peak_element.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>10</td>
+    <td><a href="https://leetcode.com/problems/search-a-2d-matrix/">Search a 2D Matrix</a></td>
+    <td>:lemon:</td>
+    <td><a href="Binary Search/sch_2d_mat.py">:point_right:</a></td>
+  </tr>
 </table>

@@ -1328,4 +1328,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Binary Search/fnd_fst_lst_pos_of_ele_in_srtd_arr.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>9</td>
+    <td><a href="https://leetcode.com/problems/find-peak-element/">Find Peak Element</a></td>
+    <td>:lemon:</td>
+    <td><a href="Binary Search/find_peak_element.py">:point_right:</a></td>
+  </tr>
 </table>

@@ -1340,4 +1340,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Binary Search/sch_2d_mat.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>11</td>
+    <td><a href="https://leetcode.com/problems/divide-two-integers/">Divide Two Integers</a></td>
+    <td>:lemon:</td>
+    <td><a href="Binary Search/div_2_ints.py">:point_right:</a></td>
+  </tr>
 </table>

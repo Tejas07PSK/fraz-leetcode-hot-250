@@ -1352,4 +1352,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Binary Search/cap_to_ship_pak_within_d_days.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>13</td>
+    <td><a href="https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/">Minimum Limit of Balls in a Bag</a></td>
+    <td>:lemon:</td>
+    <td><a href="Binary Search/min_lim_of_balls_in_a_bag.py">:point_right:</a></td>
+  </tr>
 </table>

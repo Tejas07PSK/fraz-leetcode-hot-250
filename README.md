@@ -1358,4 +1358,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Binary Search/min_lim_of_balls_in_a_bag.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>14</td>
+    <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">Median of Two Sorted Arrays</a></td>
+    <td>:lemon:</td>
+    <td><a href="Binary Search/median_of_2_sorted_arrays.py">:point_right:</a></td>
+  </tr>
 </table>

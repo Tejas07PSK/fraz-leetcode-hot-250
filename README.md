@@ -1361,7 +1361,13 @@ String with Unique Characters</a></td>
   <tr align="center">
     <td>14</td>
     <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">Median of Two Sorted Arrays</a></td>
-    <td>:lemon:</td>
+    <td>:apple:</td>
     <td><a href="Binary Search/median_of_2_sorted_arrays.py">:point_right:</a></td>
+  </tr>
+  <tr align="center">
+    <td>15</td>
+    <td><a href="https://leetcode.com/problems/count-of-smaller-numbers-after-self/">Count of Smaller Numbers After Self</a></td>
+    <td>:apple:</td>
+    <td><a href="Binary Search/count_smaller_num_after_self.py">:point_right:</a></td>
   </tr>
 </table>

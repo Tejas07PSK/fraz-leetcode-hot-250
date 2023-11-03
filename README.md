@@ -1382,4 +1382,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Binary Search/mx_sum_of_rect_no_larger_than_k.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>18</td>
+    <td><a href="https://leetcode.com/problems/split-array-largest-sum/">Split Array Largest Sum</a></td>
+    <td>:apple:</td>
+    <td><a href="Binary Search/split_arr_largest_sum.py">:point_right:</a></td>
+  </tr>
 </table>

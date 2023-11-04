@@ -1388,4 +1388,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Binary Search/split_arr_largest_sum.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>19</td>
+    <td><a href="https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/">Shortest Subarray with Sum at Least K</a></td>
+    <td>:apple:</td>
+    <td><a href="Binary Search/shortest_subarr_with_sum_atleast_k.py">:point_right:</a></td>
+  </tr>
 </table>

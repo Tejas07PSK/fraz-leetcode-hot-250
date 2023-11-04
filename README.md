@@ -1372,26 +1372,27 @@ String with Unique Characters</a></td>
   </tr>
   <tr align="center">
     <td>16</td>
-    <td><a href="https://leetcode.com/problems/count-of-smaller-numbers-after-self/">Count of Smaller Numbers After Self</a></td>
-    <td>:apple:</td>
-    <td><a href="Binary Search/count_smaller_num_after_self.py">:point_right:</a></td>
-  </tr>
-  <tr align="center">
-    <td>17</td>
     <td><a href="https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/">Max Sum of Rectangle No Larger Than K</a></td>
     <td>:apple:</td>
     <td><a href="Binary Search/mx_sum_of_rect_no_larger_than_k.py">:point_right:</a></td>
   </tr>
   <tr align="center">
-    <td>18</td>
+    <td>17</td>
     <td><a href="https://leetcode.com/problems/split-array-largest-sum/">Split Array Largest Sum</a></td>
     <td>:apple:</td>
     <td><a href="Binary Search/split_arr_largest_sum.py">:point_right:</a></td>
   </tr>
   <tr align="center">
-    <td>19</td>
+    <td>18</td>
     <td><a href="https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/">Shortest Subarray with Sum at Least K</a></td>
     <td>:apple:</td>
     <td><a href="Binary Search/shortest_subarr_with_sum_atleast_k.py">:point_right:</a></td>
+  </tr>
+  <tr><th colspan="4">BFS</th></tr>
+  <tr align="center">
+    <td>1</td>
+    <td><a href="https://leetcode.com/problems/number-of-islands/">Number of Islands</a></td>
+    <td>:lemon:</td>
+    <td><a href="BFS/nof_islands.py">:point_right:</a></td>
   </tr>
 </table>

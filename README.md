@@ -1393,6 +1393,6 @@ String with Unique Characters</a></td>
     <td>1</td>
     <td><a href="https://leetcode.com/problems/number-of-islands/">Number of Islands</a></td>
     <td>:lemon:</td>
-    <td><a href="BFS/nof_islands.py">:point_right:</a></td>
+    <td><a href="Bfs/nof_islands.py">:point_right:</a></td>
   </tr>
 </table>

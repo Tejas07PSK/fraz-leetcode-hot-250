@@ -1395,4 +1395,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Bfs/nof_islands.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>2</td>
+    <td><a href="https://leetcode.com/problems/rotting-oranges/">Rotting Oranges</a></td>
+    <td>:lemon:</td>
+    <td><a href="Bfs/rotting_oranges.py">:point_right:</a></td>
+  </tr>
 </table>

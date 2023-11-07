@@ -1401,4 +1401,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Bfs/rotting_oranges.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>2</td>
+    <td><a href="https://leetcode.com/problems/snakes-and-ladders/">Snakes and Ladders</a></td>
+    <td>:lemon:</td>
+    <td><a href="Bfs/snakes_and_ladders.py">:point_right:</a></td>
+  </tr>
 </table>

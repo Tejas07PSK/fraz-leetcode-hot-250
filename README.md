@@ -1407,4 +1407,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Bfs/snakes_and_ladders.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>4</td>
+    <td><a href="https://leetcode.com/problems/is-graph-bipartite/">Is Graph Bipartite?</a></td>
+    <td>:lemon:</td>
+    <td><a href="Bfs/is_graph_bipartite.py">:point_right:</a></td>
+  </tr>
 </table>

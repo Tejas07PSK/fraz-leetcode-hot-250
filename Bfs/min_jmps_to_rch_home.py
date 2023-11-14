@@ -1,1 +1,1 @@
-from collections
+from collections import deque

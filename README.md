@@ -1422,7 +1422,7 @@ String with Unique Characters</a></td>
   <tr align="center">
     <td>6</td>
     <td><a href="https://leetcode.com/problems/word-ladder/">Word Ladder</a></td>
-    <td>:lemon:</td>
+    <td>:apple:</td>
     <td><a href="Bfs/word_ladder.py">:point_right:</a></td>
   </tr>
 </table>

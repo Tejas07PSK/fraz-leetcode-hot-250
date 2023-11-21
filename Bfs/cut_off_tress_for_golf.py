@@ -1,2 +1,2 @@
 from collections import deque
-from heapq import heappop
+from heapq import heappop, heappush

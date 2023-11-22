@@ -1431,4 +1431,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Bfs/word_ladder_II.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>8</td>
+    <td><a href="https://leetcode.com/problems/cut-off-trees-for-golf-event/">Cut Off Trees for Golf Event</a></td>
+    <td>:apple:</td>
+    <td><a href="Bfs/cut_off_trees_for_golf.py">:point_right:</a></td>
+  </tr>
 </table>

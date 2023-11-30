@@ -1437,4 +1437,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Bfs/cut_off_trees_for_golf.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>9</td>
+    <td><a href="https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/">Reachable Nodes In Subdivided Graph</a></td>
+    <td>:apple:</td>
+    <td><a href="Bfs/reach_nodes_in_subdiv_graph.py">:point_right:</a></td>
+  </tr>
 </table>

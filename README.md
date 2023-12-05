@@ -1447,7 +1447,7 @@ String with Unique Characters</a></td>
   <tr align="center">
     <td>1</td>
     <td><a href="https://leetcode.com/problems/partition-labels/">Partition Labels</a></td>
-    <td>:apple:</td>
-    <td><a href="Bfs/partition_labels.py">:point_right:</a></td>
+    <td>:lemon:</td>
+    <td><a href="Two Pointers/partition_labels.py">:point_right:</a></td>
   </tr>
 </table>

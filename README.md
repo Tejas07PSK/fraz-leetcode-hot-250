@@ -1450,4 +1450,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Two Pointers/partition_labels.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>2</td>
+    <td><a href="https://leetcode.com/problems/sort-colors/">Sort Colors</a></td>
+    <td>:lemon:</td>
+    <td><a href="Two Pointers/sort_colors.py">:point_right:</a></td>
+  </tr>
 </table>

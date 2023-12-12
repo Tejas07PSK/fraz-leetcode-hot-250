@@ -1462,4 +1462,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Two Pointers/lngst_rep_chr_repl.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>4</td>
+    <td><a href="https://leetcode.com/problems/maximum-number-of-visible-points/">Maximum Number of Visible Points</a></td>
+    <td>:lemon:</td>
+    <td><a href="Two Pointers/mx_num_of_vis_pts.py">:point_right:</a></td>
+  </tr>
 </table>

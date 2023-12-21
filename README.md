@@ -1468,4 +1468,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Two Pointers/mx_num_of_vis_pts.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>5</td>
+    <td><a href="https://leetcode.com/problems/subarrays-with-k-different-integers/">Subarrays with K Different Integers</a></td>
+    <td>:apple:</td>
+    <td><a href="Two Pointers/sub_arr_with_k_diff_ints.py">:point_right:</a></td>
+  </tr>
 </table>

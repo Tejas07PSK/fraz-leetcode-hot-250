@@ -1474,4 +1474,11 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Two Pointers/sub_arr_with_k_diff_ints.py">:point_right:</a></td>
   </tr>
+  <tr><th colspan="4">Backtracking</th></tr>
+  <tr align="center">
+    <td>1</td>
+    <td><a href="https://leetcode.com/problems/palindrome-partitioning/">Palindrome Partitioning</a></td>
+    <td>:lemon:</td>
+    <td><a href="Two Pointers/palindrome_partitioning.py">:point_right:</a></td>
+  </tr>
 </table>

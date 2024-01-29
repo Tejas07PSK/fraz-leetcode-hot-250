@@ -1485,7 +1485,7 @@ String with Unique Characters</a></td>
     <td>2</td>
     <td><a href="https://leetcode.com/problems/combination-sum-ii/">Combination Sum II</a></td>
     <td>:lemon:</td>
-    <td><a href="Backtracking/combi_sum.py">:point_right:</a></td>
+    <td><a href="Backtracking/combi_sum2.py">:point_right:</a></td>
   </tr>
   <tr align="center">
     <td>3</td>

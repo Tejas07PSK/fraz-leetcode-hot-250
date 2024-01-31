@@ -1493,4 +1493,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Backtracking/combinations.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>4</td>
+    <td><a href="https://leetcode.com/problems/permutations-ii/">Permutations II</a></td>
+    <td>:lemon:</td>
+    <td><a href="Backtracking/permutations2.py">:point_right:</a></td>
+  </tr>
 </table>

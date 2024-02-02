@@ -1500,4 +1500,3 @@ String with Unique Characters</a></td>
     <td><a href="Backtracking/permutations2.py">:point_right:</a></td>
   </tr>
 </table>
-

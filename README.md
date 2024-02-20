@@ -1505,4 +1505,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Backtracking/subsets2.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>6</td>
+    <td><a href="https://leetcode.com/problems/beautiful-arrangement/">Beautiful Arrangement</a></td>
+    <td>:lemon:</td>
+    <td><a href="Backtracking/beautiful_arrangement.py">:point_right:</a></td>
+  </tr>
 </table>

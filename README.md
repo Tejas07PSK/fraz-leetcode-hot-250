@@ -1512,4 +1512,3 @@ String with Unique Characters</a></td>
     <td><a href="Backtracking/beautiful_arrangement.py">:point_right:</a></td>
   </tr>
 </table>
-

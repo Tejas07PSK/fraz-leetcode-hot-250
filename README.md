@@ -1511,4 +1511,10 @@ String with Unique Characters</a></td>
     <td>:lemon:</td>
     <td><a href="Backtracking/beautiful_arrangement.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>7</td>
+    <td><a href="https://leetcode.com/problems/word-search-ii/">Word Search II</a></td>
+    <td>:apple:</td>
+    <td><a href="Backtracking/word_search2.py">:point_right:</a></td>
+  </tr>
 </table>

@@ -1518,4 +1518,3 @@ String with Unique Characters</a></td>
     <td><a href="Backtracking/word_search2.py">:point_right:</a></td>
   </tr>
 </table>
-

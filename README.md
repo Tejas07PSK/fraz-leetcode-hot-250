@@ -1517,5 +1517,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Backtracking/word_search2.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>8</td>
+    <td><a href="https://leetcode.com/problems/sudoku-solver/">Sudoku Solver</a></td>
+    <td>:apple:</td>
+    <td><a href="Backtracking/sudoku_solver.py">:point_right:</a></td>
+  </tr>
 </table>
-

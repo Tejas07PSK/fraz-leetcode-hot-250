@@ -1529,5 +1529,10 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Backtracking/n_queens.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>10</td>
+    <td><a href="https://leetcode.com/problems/unique-paths-iii/">Unique Paths III</a></td>
+    <td>:apple:</td>
+    <td><a href="Backtracking/unique_paths_III.py">:point_right:</a></td>
+  </tr>
 </table>
-

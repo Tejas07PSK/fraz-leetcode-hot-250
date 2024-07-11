@@ -1535,5 +1535,11 @@ String with Unique Characters</a></td>
     <td>:apple:</td>
     <td><a href="Backtracking/unique_paths_III.py">:point_right:</a></td>
   </tr>
+  <tr><th colspan="4">Stack</th></tr>
+  <tr align="center">
+    <td>1</td>
+    <td><a href="https://leetcode.com/problems/min-stack/">Min Stack</a></td>
+    <td>:lemon:</td>
+    <td><a href="Stack/min_stack.py">:point_right:</a></td>
+  </tr>
 </table>
-

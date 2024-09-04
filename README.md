@@ -1548,4 +1548,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Stack/next_greater_ele_1.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>3</td>
+    <td><a href="https://leetcode.com/problems/backspace-string-compare/">Backspace String Compare</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Stack/bkp_str_cmp.py">:point_right:</a></td>
+  </tr>
 </table>

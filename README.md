@@ -1554,5 +1554,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Stack/bkp_str_cmp.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>4</td>
+    <td><a href="https://leetcode.com/problems/implement-queue-using-stacks/">Implement Queue using Stacks</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Stack/impl_q_with_2_stks.py">:point_right:</a></td>
+  </tr>
 </table>
-

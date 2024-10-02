@@ -1566,4 +1566,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Stack/bin_tree_preorder.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>6</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-postorder-traversal/">Binary Tree Postorder Traversal</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Stack/bin_tree_postorder.py">:point_right:</a></td>
+  </tr>
 </table>

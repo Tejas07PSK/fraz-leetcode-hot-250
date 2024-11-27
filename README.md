@@ -1578,4 +1578,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Stack/bin_tree_inorder.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>8</td>
+    <td><a href="https://leetcode.com/problems/implement-stack-using-queues/">Implement Stack using Queues</a></td>
+    <td>:green_apple:</td>
+    <td><a href="Stack/impl_stk_with_2_qs.py">:point_right:</a></td>
+  </tr>
 </table>

@@ -1584,4 +1584,10 @@ String with Unique Characters</a></td>
     <td>:green_apple:</td>
     <td><a href="Stack/impl_stk_with_2_qs.py">:point_right:</a></td>
   </tr>
+  <tr align="center">
+    <td>9</td>
+    <td><a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/">Remove All Adjacent Duplicates in String II</a></td>
+    <td>:lemon:</td>
+    <td><a href="Stack/remove_adj_dups.py">:point_right:</a></td>
+  </tr>
 </table>
